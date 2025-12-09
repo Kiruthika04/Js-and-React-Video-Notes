@@ -40,3 +40,15 @@ https://drive.google.com/file/d/18E0_LxN7RjHD_DsE0CoTaZhdkhvnobba/view?usp=shari
 
 13.Context:
 https://drive.google.com/file/d/1VT6sTgsyNM2bIvcCHsEB3C3DME8RSzsN/view?usp=sharing
+
+14.Condition:
+https://drive.google.com/file/d/1M3tFjn1pjOzTN7u00vnaq9-O0fREBigf/view?usp=sharing
+
+15.Memo
+https://drive.google.com/file/d/10dEvXC03Qv5ISP1WoiLpAvocYrwbYh3I/view?usp=sharing
+
+16.React-Redux:
+https://drive.google.com/file/d/1wuYE0JI4ie-9jSpVl03yyz47lzzYDtXx/view?usp=sharing
+
+17.React-Redux 2:
+https://drive.google.com/file/d/1WNrKGnt4y83Qixoo3MHJkA6xuBnf8VGv/view?usp=sharing
